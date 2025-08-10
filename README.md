@@ -35,3 +35,5 @@ Minimal Next.js 14 + TypeScript + Tailwind app for testing real deployment pipel
 - Secret: use `GITHUB_WEBHOOK_SECRET`
 
 Signature verification uses `sha256` HMAC via `x-hub-signature-256`.
+
+TRIAL REPO ONLY FOR DEMO PURPOSES
